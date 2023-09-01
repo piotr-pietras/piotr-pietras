@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Piotrek</h1>  
-<h3 align="center">I'm a mechanical engineer who found his passion in coding. I'm a self-learner who digs deep until find answer</h3>  
+<h3 align="center">I'm a mechanical engineer who found his passion in coding. I'm a self-learner who digs deep until find an answer.</h3>  
   
 - 🔭 I’m currently working on brain wallet for btc & eth using most common blockchain libraries like ethers and bitcoinjs [tiny-brain-wallet-js](https://github.com/piotr-pietras/tiny-brain-wallet-js)  
   
