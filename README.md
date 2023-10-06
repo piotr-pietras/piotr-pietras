@@ -8,7 +8,15 @@
 
 - 🌱 I’m currently learning **angular** and **express**
   
-- 🤝 I’m proud of my first published node package [id-to-color](https://www.npmjs.com/package/id-to-color)  
+- 🤝 I’m proud of my first published node package [id-to-color](https://www.npmjs.com/package/id-to-color)
+
+<h3 align="left">Skille evelutation</h3>    
+
+- **REACT** 💚💚💚💚💚
+
+- **ANGULAR** 💚💚🤍🤍🤍
+
+- **EXPRESS** 💚💚💚🤍🤍
   
 <h3 align="left">Connect with me:</h3>  
 <a href="https://www.linkedin.com/in/piotr-pietras-a3531123b/" target="_blank" rel="noreferrer"> 
