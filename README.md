@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently using my own crypto brain-wallet created upon crypto libraries like ethers and bitcoinjs [tiny-brain-wallet-js](https://github.com/piotr-pietras/tiny-brain-wallet-js)
 
-- 🌱 I’m currently learning backend with **angular**  
+- 🌱 I’m currently learning **angular** and **express**
   
 - 🤝 I’m proud of my first published node package [id-to-color](https://www.npmjs.com/package/id-to-color)  
   
