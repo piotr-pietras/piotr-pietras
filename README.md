@@ -2,8 +2,10 @@
 <h1 align="center">Hi 👋, I'm Piotrek</h1>  
 <h3 align="center">I'm a mechanical engineer who found his passion in coding.</h3>  
   
-- 🔭 I’m currently working on brain wallet for btc & eth using most common blockchain libraries like ethers and bitcoinjs [tiny-brain-wallet-js](https://github.com/piotr-pietras/tiny-brain-wallet-js)  
-  
+- 💡 I’m currently working fullstack app (React/Express/Mongo) that aims to be a highly user-customizable web app to handle various data in custom tables and graphs. [modifiable-logistic-web-tool](https://github.com/piotr-pietras/modifiable-logistic-web-tool)
+
+- 🔭 I’m currently using my own crypto brain-wallet created upon crypto libraries like ethers and bitcoinjs [tiny-brain-wallet-js](https://github.com/piotr-pietras/tiny-brain-wallet-js)
+
 - 🌱 I’m currently learning backend with **angular**  
   
 - 🤝 I’m proud of my first published node package [id-to-color](https://www.npmjs.com/package/id-to-color)  
