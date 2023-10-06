@@ -10,7 +10,7 @@
   
 - 🤝 I’m proud of my first published node package [id-to-color](https://www.npmjs.com/package/id-to-color)
 
-<h3 align="left">Skille evelutation</h3>    
+<h3 align="left">Skill evelutation</h3>    
 
 - **REACT** 💚💚💚💚💚
 
